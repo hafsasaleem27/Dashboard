@@ -18,7 +18,7 @@
 
     .sidebar {
       width: 100px;
-      background: linear-gradient(to bottom, #00b4db, #0083b0);
+      background: linear-gradient(to bottom, #00b4db, #3CB371);
       color: white;
       padding: 20px 10px;
     }
@@ -167,11 +167,6 @@
     background: white;
     margin: 3px 0;
     transition: 0.4s;
-  }
-
-  /* Toggle Styles */
-  #menu-toggle {
-    display: none;
   }
 
   /* Responsive Rules */
